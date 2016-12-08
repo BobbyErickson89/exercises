@@ -52,7 +52,7 @@ Using the HTML from Exercise 1, select the `h1` element and using the `.css` jQu
 Copy the following HTML & CSS to a project and then preform the following steps.
 
 1. Select the element with a class of `color-change`
-2. Add a _click event_ listener to it 
+2. Add a _click event_ listener to it
 3. When clicked, change the background color of the `box` element to red.
 
 
@@ -123,4 +123,11 @@ Here is a screenshot of what this looks like:
 .box-blue { background-color: blue; }
 .box-orange { background-color: orange; }
 .box-grey { background-color: grey; }
+```
+
+
+Here is the link to the jQuery library that you will need in
+the head of your HTML file
+```
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
 ```
